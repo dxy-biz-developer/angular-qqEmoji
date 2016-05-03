@@ -1,0 +1,24 @@
+{
+  "name": "angular-qqEmoji",
+  "authors": [
+    "Joe Zhao <nikejaycn@gmail.com>"
+  ],
+  "description": "a simple Angular QQ Emoji filter",
+  "main": [
+    "./dist/emoji.min.css",
+    "./dist/angular-qqface.js"
+  ],
+  "keywords": [
+    "qqEmoji",
+    "qqface"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
