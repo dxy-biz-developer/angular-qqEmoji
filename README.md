@@ -24,7 +24,7 @@ Demo:
         <meta charset="utf-8">
         <link rel="stylesheet" href="emoji.min.css">
         <script src="angular.min.js"></script>
-        <script src="qqface.js"></script>
+        <script src="angular-qqface.js"></script>
     </head>
     <body ng-app="app" ng-controller="AppCtrl">
         <ul>
